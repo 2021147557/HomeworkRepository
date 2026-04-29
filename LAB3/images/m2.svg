@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" preserveAspectRatio="xMidYMid slice">
+    <defs>
+        <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#ffd54f"/>
+            <stop offset="100%" stop-color="#9c5cd0"/>
+        </linearGradient>
+    </defs>
+    <rect width="200" height="300" fill="url(#g2)"/>
+    <text x="100" y="150" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle">TANGLED</text>
+    <text x="100" y="180" font-family="Arial, sans-serif" font-size="14" fill="#fff" text-anchor="middle" opacity="0.85">2010</text>
+</svg>
